@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dashboard/static/css/main.e6c13ad2.css",
-    "main.js": "/dashboard/static/js/main.fe3c722b.js",
-    "index.html": "/dashboard/index.html",
-    "main.e6c13ad2.css.map": "/dashboard/static/css/main.e6c13ad2.css.map",
-    "main.fe3c722b.js.map": "/dashboard/static/js/main.fe3c722b.js.map"
+    "main.css": "/Dukaan-Assignmen/static/css/main.e6c13ad2.css",
+    "main.js": "/Dukaan-Assignmen/static/js/main.a225f2b9.js",
+    "index.html": "/Dukaan-Assignmen/index.html",
+    "main.e6c13ad2.css.map": "/Dukaan-Assignmen/static/css/main.e6c13ad2.css.map",
+    "main.a225f2b9.js.map": "/Dukaan-Assignmen/static/js/main.a225f2b9.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.fe3c722b.js"
+    "static/js/main.a225f2b9.js"
   ]
 }
