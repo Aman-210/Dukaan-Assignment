@@ -5,7 +5,7 @@ import Home from "./Components/Home";
 function App() {
   return (
   <>
-  <BrowserRouter basename="/dashboard">
+  <BrowserRouter basename='Dukaan-Assignment'>
   <Home/>
   <Routes>
     <Route/>
